@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Saira+Semi+Condensed&display=swap');
+
+body {
+  background-color: white;
+  color: darkred;
+}
+
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-family: "Saira Semi Condensed", sans-serif;
+  background-color: white;
+  border:4px solid red;
+  padding: 50px 0;
+  margin-bottom: 50px;
+}
+h2,p {
+  text-align: center;
+  font-style: italic;
+  font-size: 20px
+}
+#firstList {
+  background-color: black;
+  color: blue;
+  text-align: center;
+}
+
+.baseball{
+  color: blue;
+  font-style: italic;
+}
+
+.band{
+  color: orange;
+  text-decoration: underline;
+}
+#baseball {
+  background-color: black;
+  color: blue;
+  text-align: center;
+}
+
+}
